@@ -1,0 +1,19 @@
+b {
+	color : red;
+	font-size : 20;
+	font-style : bold;
+}
+.important {
+	background-color : white;
+}
+v {
+	color : blue;
+}
+img {
+	float:right;
+	height: 145px;
+    width: 145px;
+}
+d {
+	float:left;
+}
